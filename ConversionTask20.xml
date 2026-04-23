@@ -1,0 +1,1224 @@
+<?xml version="1.0"?>
+<ArrayOfConversionTask20 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\DeliveryTicket</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\DeliveryTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\DeliveryTicket</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\BOL</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\BOL\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\BOL</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\DOI</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\DOI\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\DOI</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\MDR</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\MDR\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\MDR</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\MeterTicket</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\MeterTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\MeterTicket</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\MiscServiceTicket</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\MiscServiceTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\MiscServiceTicket</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\PackingSlip</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\PackingSlip\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\PackingSlip</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\BDN</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\BDN\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\BDN</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\EBS\AdditionalDocumentation</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\EBS\AdditionalDocumentation\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\EBS\Archive\AdditionalDocumentation</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\AdditionalDocumentation</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\AdditionalDocumentation\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\AdditionalDocumentation</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\BOL</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\BOL\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\BOL</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\DOI</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\DOI\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\DOI</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\MeterTicket</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\MeterTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\MeterTicket</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\BDN</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\BDN\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\BDN</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\DeliveryTicket</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\DeliveryTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\DeliveryTicket</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\DTS\DeliveryTicket</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\DTS\DeliveryTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\DTS\DeliveryTicket</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\vortex\Doclink\Prod\GPC\DTS\BOL</SourcePath>
+		<DestinationPath>\\spis110\vortex\Doclink\Prod\GPC\DTS\BOL\Converted</DestinationPath>
+		<ArchivePath>\\spis110\vortex\Doclink\Prod\GPC\Archive\DTS\BOL</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<!-- Delete the source file after conversion? -->
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<!-- Path to the directory where there are files to convert. -->
+		<SourcePath>\\spis420\ConvertToIndex\Midcon\NoAutomation</SourcePath>
+		<!-- Path to the directory where converted files will be sent. -->
+		<DestinationPath>\\spis420\ConvertToIndex\Midcon\Unknown</DestinationPath>
+		<!-- A copy of the original and converted files will be placed here. Not required. -->
+		<ArchivePath>\\spis420\ConvertToIndex\Midcon\Archive</ArchivePath>
+		<!-- A unique name will be appended to the converted file name. -->
+		<CreateUniqueName>false</CreateUniqueName>
+		<!--The convert to format. For Tiff use FF_TIFG4. For PDF use FF_PDF_MIN.-->
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- If Decollate = true the images in the file will be separated and numbered on conversion. -->
+		<!-- They will be put in a sub folder of DestinationPath. With the name of the current processing Date time. -->
+		<Decollate>true</Decollate>
+		<!-- Upon processing all pages will be Auto rotated, despeckled and deskewed. -->
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\ConvertToIndex\Midcon</SourcePath>
+		<DestinationPath>\\spis420\ConvertToIndex\Midcon\Out</DestinationPath>
+		<ArchivePath>\\spis420\ConvertToIndex\Midcon\Archive</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\ConvertToIndex\Bakken_Rockies</SourcePath>
+		<DestinationPath>\\spis420\ConvertToIndex\Bakken_Rockies\Out</DestinationPath>
+		<ArchivePath>\\spis420\ConvertToIndex\Bakken_Rockies\Archive</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<!--The convert to format. For Tiff use FF_TIFG4. For PDF use FF_PDF_MIN.-->
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!--   <ConversionTask20>
+    <CanDeleteSourceFile>true</CanDeleteSourceFile>
+    <SourcePath>\\spis420\ConvertToIndex\Bakken_Rockies\NoAutomation</SourcePath>
+    <DestinationPath>\\spis420\ConvertToIndex\Bakken_Rockies\Unknown</DestinationPath>
+    <ArchivePath>\\spis420\ConvertToIndex\Bakken_Rockies\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>true</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20> -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\ConvertToIndex\Eagleford</SourcePath>
+		<DestinationPath>\\spis420\ConvertToIndex\Eagleford\Out</DestinationPath>
+		<ArchivePath>\\spis420\ConvertToIndex\Eagleford\Archive</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<!--The convert to format. For Tiff use FF_TIFG4. For PDF use FF_PDF_MIN.-->
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!--   <ConversionTask20>
+    <CanDeleteSourceFile>true</CanDeleteSourceFile>
+    <SourcePath>\\spis420\ConvertToIndex\Eagleford\NoAutomation</SourcePath>
+    <DestinationPath>\\spis420\ConvertToIndex\Eagleford\Unknown</DestinationPath>
+    <ArchivePath>\\spis420\ConvertToIndex\Eagleford\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>true</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>    -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\ConvertToIndex\East</SourcePath>
+		<DestinationPath>\\spis420\ConvertToIndex\East\Out</DestinationPath>
+		<ArchivePath>\\spis420\ConvertToIndex\East\Archive</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<!--The convert to format. For Tiff use FF_TIFG4. For PDF use FF_PDF_MIN.-->
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!--   <ConversionTask20>
+    <CanDeleteSourceFile>true</CanDeleteSourceFile>
+    <SourcePath>\\spis420\ConvertToIndex\East\NoAutomation</SourcePath>
+    <DestinationPath>\\spis420\ConvertToIndex\East\Unknown</DestinationPath>
+    <ArchivePath>\\spis420\ConvertToIndex\East\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>false</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>    
+ -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\ConvertToIndex\FT_Worth_Ops_Accounting</SourcePath>
+		<DestinationPath>\\spis420\ConvertToIndex\FT_Worth_Ops_Accounting\Out</DestinationPath>
+		<ArchivePath>\\spis420\ConvertToIndex\FT_Worth_Ops_Accounting\Archive</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<!--The convert to format. For Tiff use FF_TIFG4. For PDF use FF_PDF_MIN.-->
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Error/>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!--   <ConversionTask20>
+    <CanDeleteSourceFile>true</CanDeleteSourceFile>
+    <SourcePath>\\spis420\ConvertToIndex\FT_Worth_Ops_Accounting\NoAutomation</SourcePath>
+    <DestinationPath>\\spis420\ConvertToIndex\FT_Worth_Ops_Accounting\Unknown</DestinationPath>
+    <ArchivePath>\\spis420\ConvertToIndex\FT_Worth_Ops_Accounting\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>true</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>   -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\ConvertToIndex\Permian</SourcePath>
+		<DestinationPath>\\spis420\ConvertToIndex\Permian\Out</DestinationPath>
+		<ArchivePath>\\spis420\ConvertToIndex\Permian\Archive</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<!--The convert to format. For Tiff use FF_TIFG4. For PDF use FF_PDF_MIN.-->
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!--   <ConversionTask20>
+    <CanDeleteSourceFile>true</CanDeleteSourceFile>
+    <SourcePath>\\spis420\ConvertToIndex\Permian\NoAutomation</SourcePath>
+    <DestinationPath>\\spis420\ConvertToIndex\Permian\Unknown</DestinationPath>
+    <ArchivePath>\\spis420\ConvertToIndex\Permian\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>true</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>    -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\SPI_CommonCarrier</SourcePath>
+		<DestinationPath>\\spis420\SPI_CommonCarrier\Completed</DestinationPath>
+		<ArchivePath>\\spis420\SPI_CommonCarrier\Archive</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<!--The convert to format. For Tiff use FF_TIFG4. For PDF use FF_PDF_MIN.-->
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!-- <conversiontask20> -->
+	<!-- <candeletesourcefile>true</candeletesourcefile> -->
+	<!-- <sourcepath>\\okc-pesk1\edm_queue\pdf</sourcepath> -->
+	<!-- <destinationpath>\\okc-pesk1\edm_queue\converted</destinationpath> -->
+	<!-- <archivepath></archivepath> -->
+	<!-- <createuniquename>false</createuniquename> -->
+	<!-- <imgformat>ff_tifg4</imgformat> -->
+	<!-- <decollate>false</decollate> -->
+	<!-- <autorotate>true</autorotate> -->
+	<!-- </conversiontask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\okc-pesk2\EDM_Queue\PDF</SourcePath> -->
+	<!-- <DestinationPath>\\okc-pesk2\EDM_Queue\Converted</DestinationPath> -->
+	<!-- <ArchivePath></ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\BloomField</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\BloomField</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Caliente</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Caliente</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Ft_Lupton</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Ft_Lupton</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Lafayette</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Lafayette</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Laredo_WHLS</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Laredo_WHLS</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Morgantown</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Morgantown</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Nitro</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Nitro</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Belle</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Belle</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Odessa_Frac</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Odessa_Frac</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Odessa_WHLS</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\Odessa_WHLS</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Odessa_WHLS</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Oklahoma_City_Frac</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\Oklahoma_City_Frac</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Oklahoma_City_Frac</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Oklahoma_City_WHLS</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\Oklahoma_City_WHLS</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Oklahoma_City_WHLS</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Rock_Springs</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Rock_Springs</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\SanAntonio</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\SanAntonio</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Victoria</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Victoria</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Williston</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Williston</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\North Resubmission</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\North_Resubmission</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\South Resubmission</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\South_Resubmission</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\DeliveryTickets</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\DeliveryTickets</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\DeliveryTickets</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Philadelphia</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Philadelphia</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Baltimore</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Baltimore</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Logan</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Logan</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Carlin</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders2</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Carlin</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Burley</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Burley</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Beaumont</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Beaumont</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Price</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Price</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\NSL</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\NSL</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\NSL_FUEL</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\NSL_FUEL</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Bishop</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Bishop</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Phoenix</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Phoenix</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\St_George</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\St_George</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Las_Vegas</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Las_Vegas</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Reno</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\Reno</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Reno</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Pocatello</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\Pocatello</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Pocatello</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Wholesale</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Wholesale</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EastDROP</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\EastDROP</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EastDROP</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EBS_Mobile</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\EBS_Mobile</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EBS_Mobile</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EBS_Memphis</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\EBS_Memphis</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EBS_Memphis</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EBS_Wickliffe</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\EBS_Wickliffe</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EBS_Wickliffe</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EBS_WR_STL</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\EBS_WR_STL</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EBS_WR_STL</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EBS_Houston</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\EBS_Houston</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EBS_Houston</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\GPC_Rancho</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\GPC_Rancho</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\GPC_Rancho</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\GPC_Richmond</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\GPC_Richmond</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\GPC_Richmond</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\GPC_Seattle</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\GPC_Seattle</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\GPC_Seattle</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\GPC_Port_Hueneme</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\GPC_Port_Hueneme</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\GPC_Port_Hueneme</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<!-- <ImgFormat>FF_TIFJPGNEW</ImgFormat> -->
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\MCRObtained</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders2</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\MCRObtained</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\Resubmit\PTL\DT</SourcePath>
+		<DestinationPath>\\spis420\IndexFolders\Resubmit\PTL\DT</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\Resubmit\PTL\DT</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Prod\ProofOfDelivery</SourcePath>
+		<DestinationPath>\\spis420\automation\Prod\ProofOfDelivery\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Prod\PODWorking</ArchivePath>
+		<!-- <ArchivePath>\\spis420\automation\Prod\DeliveryTicket</ArchivePath> -->
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\MarineProd\EBS\POD</SourcePath>
+		<DestinationPath>\\spis420\automation\MarineProd\EBS\POD\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\MarineProd\EBS\POD\Archive</ArchivePath>
+		<!-- <ArchivePath>\\spis420\automation\Prod\DeliveryTicket</ArchivePath> -->
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\MarineProd\GPC\POD</SourcePath>
+		<DestinationPath>\\spis420\automation\MarineProd\GPC\POD\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\MarineProd\GPC\POD\Archive</ArchivePath>
+		<!-- <ArchivePath>\\spis420\automation\Prod\DeliveryTicket</ArchivePath> -->
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Prod\DeliveryTicket</SourcePath>
+		<DestinationPath>\\spis420\automation\Prod\DeliveryTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Prod\DeliveryTicket\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Prod\Invoice</SourcePath>
+		<!-- <DestinationPath>\\spis420\automation\Prod\Invoice\Converted</DestinationPath> -->
+		<DestinationPath>\\spis420\automation\Prod\Doclink\Invoice</DestinationPath>
+		<ArchivePath>\\spis420\automation\Prod\Invoice\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\MarineProd\EBS\Invoice</SourcePath>
+		<DestinationPath>\\spis420\automation\MarineProd\EBS\Invoice\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\MarineProd\EBS\Invoice\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\MarineProd\GPC\Invoice</SourcePath>
+		<DestinationPath>\\spis420\automation\MarineProd\GPC\Invoice\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\MarineProd\GPC\Invoice\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\test\proofofdelivery</SourcePath>
+		<DestinationPath>\\spis420\automation\test\proofofdelivery\converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\test\PODWorking</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Test\CDR</SourcePath>
+		<DestinationPath>\\spis420\automation\Test\CDR\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Test\CDR\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Prod\CDR</SourcePath>
+		<DestinationPath>\\spis420\automation\Prod\CDR\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Prod\CDR\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Test\Working</SourcePath>
+		<DestinationPath>\\spis420\automation\Test\Working\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Test\Working\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Prod\Working</SourcePath>
+		<DestinationPath>\\spis420\automation\Prod\Working\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Prod\Working\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Prod\Skybits\Signature</SourcePath>
+		<DestinationPath>\\spis420\automation\Prod\Skybits\Signature\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Prod\Skybits\Signature\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis420\automation\Test\Working\Color</SourcePath> -->
+	<!-- <DestinationPath>\\spis420\automation\Test\Working\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis420\automation\Test\Working\Archive</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFLZW</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EmailDrop</SourcePath>
+		<DestinationPath>\\spis420\PriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EmailDrop</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\EBS_EmailDrop</SourcePath>
+		<DestinationPath>\\spis420\EBSPriorityBilling</DestinationPath>
+		<ArchivePath>\\spis420\DropFolders\Archive\EBS_EmailDrop</ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\DropFolders\SignedDocs - Temporary</SourcePath>
+		<DestinationPath>\\spis420\SIRM_Unknown</DestinationPath>
+		<ArchivePath></ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>true</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\SkybitzStampDrop</SourcePath>
+		<DestinationPath>\\spis420\SkybitzStampDrop\Converted</DestinationPath>
+		<ArchivePath>\\spis420\SkybitzStampDrop\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\Automation\Test\Skybits</SourcePath>
+		<DestinationPath>\\spis420\Automation\Test\Skybits\Converted</DestinationPath>
+		<ArchivePath>\\spis420\Automation\Test\Skybits\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<!-- <ImgFormat>FF_TIFLZW</ImgFormat> -->
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Test\DeliveryTicket</SourcePath>
+		<DestinationPath>\\spis420\automation\Test\DeliveryTicket\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Test\DeliveryTicket\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis420\automation\Test\Invoice</SourcePath>
+		<DestinationPath>\\spis420\automation\Test\Invoice\Converted</DestinationPath>
+		<ArchivePath>\\spis420\automation\Test\Invoice\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!--<ConversionTask20>-->
+	<!--<CanDeleteSourceFile>true</CanDeleteSourceFile>-->
+	<!-- <SourcePath>\\spis420\automation\Test\Invoice</SourcePath> -->
+	<!-- <DestinationPath>\\spis420\automation\Test\Invoice\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis420\automation\Test\Invoice\Archive</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\DeliveryTicket</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\DeliveryTicket\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\DeliveryTicket</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\BOL</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\BOL\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\BOL</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\DOI</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\DOI\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\DOI</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFLZW</ImgFormat> -->
+	<!-- <Decollate>true</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\Invoice</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\Invoice\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\Invoice</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\MDR</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\MDR\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\MDR</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\MeterTicket</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\MeterTicket\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\MeterTicket</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFPB</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\MiscServiceTicket</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\MiscServiceTicket\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\MiscServiceTicket</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis110\vortex\Doclink\Test\EBS\PackingSlip</SourcePath> -->
+	<!-- <DestinationPath>\\spis110\vortex\Doclink\Test\EBS\PackingSlip\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis110\vortex\Doclink\Test\EBS\Archive\PackingSlip</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\network$\DocumentConversion\PDF_To_Tiff\IN</SourcePath>
+		<DestinationPath>\\spis110\network$\DocumentConversion\PDF_To_Tiff\OUT</DestinationPath>
+		<ArchivePath></ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\network$\DocumentConversion\TIFF_To_PDF\IN</SourcePath>
+		<DestinationPath>\\spis110\network$\DocumentConversion\TIFF_To_PDF\OUT</DestinationPath>
+		<ArchivePath></ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_PDF_MIN</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\business\PTLBilling\PDFToTiff</SourcePath>
+		<DestinationPath>\\spis110\business\PTLBilling\PDFToTiff\Converted</DestinationPath>
+		<ArchivePath>\\spis110\business\PTLBilling\PDFToTiff\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis420\Automation\Test\TopTech</SourcePath> -->
+	<!-- <DestinationPath>\\spis420\Automation\Test\TopTech\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis420\Automation\Test\TopTech\Archive</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFG4</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\dynamicspickupebs\eBOL Records</SourcePath>
+		<DestinationPath>\\spis110\dynamicspickupebs\eBOL Records\Converted</DestinationPath>
+		<ArchivePath>\\spis110\dynamicspickupebs\eBOL Records\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<!-- <ConversionTask20> -->
+	<!-- <CanDeleteSourceFile>true</CanDeleteSourceFile> -->
+	<!-- <SourcePath>\\spis420\automation\Test\ResizeImages</SourcePath> -->
+	<!-- <DestinationPath>\\spis420\automation\Test\ResizeImages\Converted</DestinationPath> -->
+	<!-- <ArchivePath>\\spis420\automation\Test\ResizeImages\Archive</ArchivePath> -->
+	<!-- <CreateUniqueName>false</CreateUniqueName> -->
+	<!-- <ImgFormat>FF_TIFLZW</ImgFormat> -->
+	<!-- <Decollate>false</Decollate> -->
+	<!-- <AutoRotate>true</AutoRotate> -->
+	<!-- </ConversionTask20> -->
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\business\thomaswestpetro\MMI BILLING\RPC\PDFToTiff</SourcePath>
+		<DestinationPath>\\spis110\business\thomaswestpetro\MMI BILLING\RPC\PDFToTiff\Converted</DestinationPath>
+		<ArchivePath>\\spis110\business\thomaswestpetro\MMI BILLING\RPC\PDFToTiff\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\business\thomaswestpetro\MMI BILLING\GPC\PDFToTiff</SourcePath>
+		<DestinationPath>\\spis110\business\thomaswestpetro\MMI BILLING\GPC\PDFToTiff\Converted</DestinationPath>
+		<ArchivePath>\\spis110\business\thomaswestpetro\MMI BILLING\GPC\PDFToTiff\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\spis110\business\thomaswestpetro\MMI BILLING\TPC\PDFToTiff</SourcePath>
+		<DestinationPath>\\spis110\business\thomaswestpetro\MMI BILLING\TPC\PDFToTiff\Converted</DestinationPath>
+		<ArchivePath>\\spis110\business\thomaswestpetro\MMI BILLING\TPC\PDFToTiff\Archive</ArchivePath>
+		<CreateUniqueName>false</CreateUniqueName>
+		<ImgFormat>FF_TIFG4</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+	<ConversionTask20>
+		<CanDeleteSourceFile>true</CanDeleteSourceFile>
+		<SourcePath>\\MSS300\EWS_Attachments</SourcePath>
+		<DestinationPath>\\MSS300\EWS_Attachments\Converted</DestinationPath>
+		<ArchivePath></ArchivePath>
+		<CreateUniqueName>true</CreateUniqueName>
+		<ImgFormat>FF_TIFLZW</ImgFormat>
+		<Decollate>false</Decollate>
+		<AutoRotate>true</AutoRotate>
+	</ConversionTask20>
+</ArrayOfConversionTask20>
