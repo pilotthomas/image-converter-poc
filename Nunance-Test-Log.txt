@@ -1,0 +1,396 @@
+Task-02 --> Multi-page TIFF -> decollated pages under a timestamp subfolder 
+
+=================================================
+04-20-2026 05:26:40 Service STARTED
+Loading config from: C:\PTL\Test_Image_Converter_ServiceV20\TestConversionTask20.xml
+Total tasks loaded: 1
+Timer started successfully
+ConvertImages20 method starting: 
+Converters Satrted
+Initialised Engine
+ConvertImages20 tasks: SourcePath: \\spis420\automation\Test_2\Working| DestinationPath: \\spis420\automation\Test_2\Working\Converted| ImageFormat: FF_TIFG4
+SOURCE: FOLDER | Path: \\spis420\automation\Test_2\Working | Count: 8
+--------------------Process Task Source \\spis420\automation\Test_2\Working--------------------
+File detected: \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg | Size: 8856.47 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:00 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg out=\\spis420\automation\Test_2\Working\Converted\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.TIF format=FF_TIFG4
+Conversion count: 0 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+
+File detected: \\spis420\automation\Test_2\Working\1-2.pdf | Size: 127.62 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\1-2.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:03 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\1-2.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\1-2.pdf out=\\spis420\automation\Test_2\Working\Converted\1-2.TIF format=FF_TIFG4
+Conversion count: 2 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\1-2.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\1-2.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\1-2.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\1-2.pdf
+
+File detected: \\spis420\automation\Test_2\Working\1544959.pdf | Size: 113.25 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\1544959.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:03 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\1544959.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\1544959.pdf out=\\spis420\automation\Test_2\Working\Converted\1544959.TIF format=FF_TIFG4
+Conversion count: 4 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\1544959.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\1544959.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\1544959.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\1544959.pdf
+
+File detected: \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u-1.pdf | Size: 193.97 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u-1.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:04 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\506745-2iwyrspfx3u-1.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\506745-2iwyrspfx3u-1.pdf out=\\spis420\automation\Test_2\Working\Converted\506745-2iwyrspfx3u-1.TIF format=FF_TIFG4
+Conversion count: 8 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u-1.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\506745-2iwyrspfx3u-1.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\506745-2iwyrspfx3u-1.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u-1.pdf
+
+File detected: \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u.pdf | Size: 193.97 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:04 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\506745-2iwyrspfx3u.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\506745-2iwyrspfx3u.pdf out=\\spis420\automation\Test_2\Working\Converted\506745-2iwyrspfx3u.TIF format=FF_TIFG4
+Conversion count: 10 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\506745-2iwyrspfx3u.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\506745-2iwyrspfx3u.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\506745-2iwyrspfx3u.pdf
+
+File detected: \\spis420\automation\Test_2\Working\[Untitled]-09347327-5bfnepxrlqy.pdf | Size: 271.88 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\[Untitled]-09347327-5bfnepxrlqy.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:05 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\[Untitled]-09347327-5bfnepxrlqy.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\[Untitled]-09347327-5bfnepxrlqy.pdf out=\\spis420\automation\Test_2\Working\Converted\[Untitled]-09347327-5bfnepxrlqy.TIF format=FF_TIFG4
+Conversion count: 12 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\[Untitled]-09347327-5bfnepxrlqy.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\[Untitled]-09347327-5bfnepxrlqy.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\[Untitled]-09347327-5bfnepxrlqy.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\[Untitled]-09347327-5bfnepxrlqy.pdf
+
+File detected: \\spis420\automation\Test_2\Working\[Untitled]-09347327.pdf | Size: 271.88 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\[Untitled]-09347327.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:05 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\[Untitled]-09347327.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\[Untitled]-09347327.pdf out=\\spis420\automation\Test_2\Working\Converted\[Untitled]-09347327.TIF format=FF_TIFG4
+Conversion count: 16 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\[Untitled]-09347327.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\[Untitled]-09347327.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\[Untitled]-09347327.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\[Untitled]-09347327.pdf
+
+File detected: \\spis420\automation\Test_2\Working\multipage_tif_example.tif | Size: 4304.09 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\multipage_tif_example.tif
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:27:06 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\multipage_tif_example.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\multipage_tif_example.tif out=\\spis420\automation\Test_2\Working\Converted\multipage_tif_example.TIF format=FF_TIFG4
+Conversion count: 20 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\multipage_tif_example.tif
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\multipage_tif_example.tif
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\multipage_tif_example.tif
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\multipage_tif_example.tif
+=================================================
+
+Task-03 --> Multi-page input -> single PDF (minimal-style JPEG compression in PDF)
+=================================================
+04-20-2026 05:35:59 Service STARTED
+Loading config from: C:\PTL\Test_Image_Converter_ServiceV20\TestConversionTask20.xml
+Total tasks loaded: 1
+Timer started successfully
+ConvertImages20 method starting: 
+Converters Satrted
+Initialised Engine
+ConvertImages20 tasks: SourcePath: \\spis420\automation\Test_2\Working| DestinationPath: \\spis420\automation\Test_2\Working\Converted| ImageFormat: FF_PDF_MIN
+SOURCE: FOLDER | Path: \\spis420\automation\Test_2\Working | Count: 2
+--------------------Process Task Source \\spis420\automation\Test_2\Working--------------------
+File detected: \\spis420\automation\Test_2\Working\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.jpg | Size: 9122.37 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.jpg
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:36:19 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.PDF
+Convert started: in=\\spis420\automation\Test_2\Working\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.jpg out=\\spis420\automation\Test_2\Working\Converted\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.PDF format=FF_PDF_MIN
+Conversion count: 0 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.jpg
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.jpg
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.jpg
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\PHOTO.DTR..TTW1001384.6M.24hr.Oct_30_2025_000000.Oct_30_2025_162749.jpg
+
+File detected: \\spis420\automation\Test_2\Working\multipage_tif_example.tif | Size: 4304.09 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\multipage_tif_example.tif
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:36:23 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\multipage_tif_example.PDF
+Convert started: in=\\spis420\automation\Test_2\Working\multipage_tif_example.tif out=\\spis420\automation\Test_2\Working\Converted\multipage_tif_example.PDF format=FF_PDF_MIN
+Conversion count: 1 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\multipage_tif_example.tif
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\multipage_tif_example.tif
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\multipage_tif_example.tif
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\multipage_tif_example.tif
+
+Task-04 --> Same as (1) but with CreateUniqueName
+=================================================
+=================================================
+04-20-2026 05:42:42 Service STARTED
+Loading config from: C:\PTL\Test_Image_Converter_ServiceV20\TestConversionTask20.xml
+Total tasks loaded: 1
+Timer started successfully
+ConvertImages20 method starting: 
+Converters Satrted
+Initialised Engine
+ConvertImages20 tasks: SourcePath: \\spis420\automation\Test_2\Working| DestinationPath: \\spis420\automation\Test_2\Working\Converted| ImageFormat: FF_TIFG4
+SOURCE: FOLDER | Path: \\spis420\automation\Test_2\Working | Count: 1
+--------------------Process Task Source \\spis420\automation\Test_2\Working--------------------
+File detected: \\spis420\automation\Test_2\Working\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271.jpg | Size: 78.55 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271.jpg
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:43:03 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271-24czawz4qyq.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271.jpg out=\\spis420\automation\Test_2\Working\Converted\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271-24czawz4qyq.TIF format=FF_TIFG4
+Conversion count: 0 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271.jpg
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271-24czawz4qyq.jpg
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271-24czawz4qyq.jpg
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\PHOTO.BOL.H1A0E5F218D.MTR24W3141.Apr_13_2026_0937271.jpg
+
+Task-05 --> color or grayscale preserved, LZW TIFF (matches Doclink style tasks)
+=================================================
+=================================================
+
+04-20-2026 05:48:16 Service STARTED
+Loading config from: C:\PTL\Test_Image_Converter_ServiceV20\TestConversionTask20.xml
+Total tasks loaded: 1
+Timer started successfully
+ConvertImages20 method starting: 
+Converters Satrted
+Initialised Engine
+ConvertImages20 tasks: SourcePath: \\spis420\automation\Test_2\Working| DestinationPath: \\spis420\automation\Test_2\Working\Converted| ImageFormat: FF_TIFLZW
+SOURCE: FOLDER | Path: \\spis420\automation\Test_2\Working | Count: 4
+--------------------Process Task Source \\spis420\automation\Test_2\Working--------------------
+File detected: \\spis420\automation\Test_2\Working\blank.jpeg | Size: 12.92 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\blank.jpeg
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:48:36 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\blank.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\blank.jpeg out=\\spis420\automation\Test_2\Working\Converted\blank.TIF format=FF_TIFLZW
+Conversion count: 0 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\blank.jpeg
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\blank.jpeg
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\blank.jpeg
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\blank.jpeg
+
+File detected: \\spis420\automation\Test_2\Working\blank.jpg | Size: 12.92 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\blank.jpg
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:48:36 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\blank.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\blank.jpg out=\\spis420\automation\Test_2\Working\Converted\blank.TIF format=FF_TIFLZW
+Conversion count: 1 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\blank.jpg
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\blank.jpg
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\blank.jpg
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\blank.jpg
+
+File detected: \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg | Size: 8856.47 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:48:36 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg out=\\spis420\automation\Test_2\Working\Converted\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.TIF format=FF_TIFLZW
+Conversion count: 2 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\PHOTO.DTR..MTW2353498.K3.24hr.Apr_04_2026_000000.Apr_04_2026_081435.jpg
+
+File detected: \\spis420\automation\Test_2\Working\blank_png.png | Size: 4.48 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\blank_png.png
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:48:40 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\blank_png.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\blank_png.png out=\\spis420\automation\Test_2\Working\Converted\blank_png.TIF format=FF_TIFLZW
+Conversion count: 3 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\blank_png.png
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\blank_png.png
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\blank_png.png
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\blank_png.png
+
+04-20-2026 05:48:50 Service STOPPING...
+Timer stopped
+04-20-2026 05:48:50 Service STOPPED
+4/20/2026 5:48:50 AM Service MAIN started successfully
+
+Task-06 --> color or grayscale preserved, LZW TIFF (matches Doclink style tasks)
+=================================================
+=================================================
+
+04-20-2026 05:54:06 Service STARTED
+Loading config from: C:\PTL\Test_Image_Converter_ServiceV20\TestConversionTask20.xml
+Total tasks loaded: 1
+Timer started successfully
+ConvertImages20 method starting: 
+Converters Satrted
+Initialised Engine
+ConvertImages20 tasks: SourcePath: \\spis420\automation\Test_2\Working| DestinationPath: \\spis420\automation\Test_2\Working\Converted| ImageFormat: FF_TIFLZW
+SOURCE: FOLDER | Path: \\spis420\automation\Test_2\Working | Count: 7
+--------------------Process Task Source \\spis420\automation\Test_2\Working--------------------
+File detected: \\spis420\automation\Test_2\Working\1-2.pdf | Size: 127.62 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\1-2.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:54:27 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\1-2.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\1-2.pdf out=\\spis420\automation\Test_2\Working\Converted\1-2.TIF format=FF_TIFLZW
+Conversion count: 0 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\1-2.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\1-2.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\1-2.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\1-2.pdf
+
+File detected: \\spis420\automation\Test_2\Working\1544959.pdf | Size: 113.25 KB
+Repeat Count: 1 for file: \\spis420\automation\Test_2\Working\1544959.pdf
+PTL.Service.ImageConverter20.exe Information: 0 :       Process File Begin - SimpleConversion:ConvertImages   \\spis420\automation\Test_2\Working
+4/20/2026 5:54:27 AM
+--------------------Process File--------------------
+Destination Path: \\spis420\automation\Test_2\Working\Converted\1544959.TIF
+Convert started: in=\\spis420\automation\Test_2\Working\1544959.pdf out=\\spis420\automation\Test_2\Working\Converted\1544959.TIF format=FF_TIFLZW
+Conversion count: 2 / max 200
+Inside Try block
+PTL.Service.ImageConverter20.exe Information: 0 : ------------------------------
+PTL.Service.ImageConverter20.exe Information: 0 : Outside the Auto Rotate
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle
+PTL.Service.ImageConverter20.exe Information: 0 : Inside ImageFIle pagecount
+PTL.Service.ImageConverter20.exe Information: 0 : CONVERSION SUCCESS: \\spis420\automation\Test_2\Working\1544959.pdf
+Archiving file to: \\spis420\automation\Test_2\Working\Archive\1544959.pdf
+PTL.Service.ImageConverter20.exe Information: 0 : Archived successfully: \\spis420\automation\Test_2\Working\Archive\1544959.pdf
+deletinggggFalse
+PTL.Service.ImageConverter20.exe Information: 0 : File converted (no archive): \\spis420\automation\Test_2\Working\1544959.pdf
+

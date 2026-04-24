@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<!-- Local test tasks. Paths are relative to this file's folder (build output when you run the exe). Flags: test, dry-run, seed-test-assets, run-after-seed. See Program usage text. -->
+<ArrayOfConversionTask20 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <!-- 1) Single raster -> one TIFF G4, archive, do not delete source -->
+  <ConversionTask20>
+    <CanDeleteSourceFile>false</CanDeleteSourceFile>
+    <SourcePath>TestData\01-single-g4\In</SourcePath>
+    <DestinationPath>TestData\01-single-g4\Out</DestinationPath>
+    <ArchivePath>TestData\01-single-g4\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>false</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>
+  <!-- 2) Multi-page TIFF -> decollated pages under a timestamp subfolder -->
+  <ConversionTask20>
+    <CanDeleteSourceFile>false</CanDeleteSourceFile>
+    <SourcePath>TestData\02-decollate-g4\In</SourcePath>
+    <DestinationPath>TestData\02-decollate-g4\Out</DestinationPath>
+    <ArchivePath>TestData\02-decollate-g4\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>true</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>
+  <!-- 3) Multi-page input -> single PDF (minimal-style JPEG compression in PDF) -->
+  <ConversionTask20>
+    <CanDeleteSourceFile>false</CanDeleteSourceFile>
+    <SourcePath>TestData\03-multipage-pdf\In</SourcePath>
+    <DestinationPath>TestData\03-multipage-pdf\Out</DestinationPath>
+    <ArchivePath>TestData\03-multipage-pdf\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_PDF_MIN</ImgFormat>
+    <Decollate>false</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>
+  <!-- 4) Same as (1) but with CreateUniqueName -->
+  <ConversionTask20>
+    <CanDeleteSourceFile>false</CanDeleteSourceFile>
+    <SourcePath>TestData\04-unique-name\In</SourcePath>
+    <DestinationPath>TestData\04-unique-name\Out</DestinationPath>
+    <ArchivePath></ArchivePath>
+    <CreateUniqueName>true</CreateUniqueName>
+    <ImgFormat>FF_TIFG4</ImgFormat>
+    <Decollate>false</Decollate>
+    <AutoRotate>false</AutoRotate>
+  </ConversionTask20>
+  <!-- 5) FF_TIFLZW: color or grayscale preserved, LZW TIFF (matches Doclink style tasks) -->
+  <ConversionTask20>
+    <CanDeleteSourceFile>false</CanDeleteSourceFile>
+    <SourcePath>TestData\05-lzw-single\In</SourcePath>
+    <DestinationPath>TestData\05-lzw-single\Out</DestinationPath>
+    <ArchivePath>TestData\05-lzw-single\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFLZW</ImgFormat>
+    <Decollate>false</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>
+  <!-- 6) FF_TIFLZW multi-page decollated (one LZW TIFF per page) -->
+  <ConversionTask20>
+    <CanDeleteSourceFile>false</CanDeleteSourceFile>
+    <SourcePath>TestData\06-lzw-decollate\In</SourcePath>
+    <DestinationPath>TestData\06-lzw-decollate\Out</DestinationPath>
+    <ArchivePath>TestData\06-lzw-decollate\Archive</ArchivePath>
+    <CreateUniqueName>false</CreateUniqueName>
+    <ImgFormat>FF_TIFLZW</ImgFormat>
+    <Decollate>true</Decollate>
+    <AutoRotate>true</AutoRotate>
+  </ConversionTask20>
+</ArrayOfConversionTask20>

@@ -1,0 +1,51 @@
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+out/
+
+## Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+*.VC.db
+*.VC.VC.opendb
+*.rsuser
+
+## Test / coverage
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+
+## NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+## JetBrains Rider
+.idea/
+*.sln.iml
+
+## VS Code (optional local settings)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+## OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Local secrets / machine paths (Ghostscript discovery)
+GhostscriptBin.txt
+IMAGE_CONVERTER_GHOSTSCRIPT.txt
